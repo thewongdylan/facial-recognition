@@ -1,6 +1,7 @@
 # # OpenCV Face Detection
 
 # ## Face Detection for Images
+# Following tutorial from https://www.datacamp.com/tutorial/face-detection-python-opencv
 
 # Imports
 import cv2
