@@ -1,0 +1,30 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+
+# Ignore build artifacts
+build/
+dist/
+node_modules/
+
+# Ignore IDE and editor files
+tf_venv/
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive or personal information
+config.ini
+secrets.json
+
+# Ignore datasets
+fer2013/
